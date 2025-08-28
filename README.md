@@ -1,6 +1,8 @@
 Hi there 👋 I'm Haris Ahmed
 
-🚀 Full-Stack Developer | PHP | Laravel | Python | Django | Django Rest Framework (DRF) | Docker | REST APIs
+🚀 Full-Stack Developer passionate about crafting scalable, secure, and high-performance applications. I specialize in backend engineering and REST API development, with hands-on experience across modern frameworks and tools including Laravel, Django, Django Rest Framework (DRF), Python, PHP, and Docker.
+
+💡 I thrive on solving complex problems, architecting clean solutions, and delivering reliable software that helps businesses grow. Whether it’s building robust APIs, containerized deployments, or end-to-end web platforms, I bring efficiency, precision, and innovation to every project.
 
 💻 Tech Stack
 <p align="left"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Django%20REST%20Framework-ff1709?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/> </p>
