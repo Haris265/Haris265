@@ -18,8 +18,6 @@ Hi there 👋 I'm Haris Ahmed
 
 📫 Connect With Me
 
-GitHub: Haris265
+GitHub: github.com/Haris265
 
-LinkedIn: Haris Ahmed
-
-Upwork: [Your Upwork Profile Link]
+LinkedIn: linkedin.com/in/haris-ahmed-15bb0a215
