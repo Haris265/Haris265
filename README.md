@@ -1,25 +1,103 @@
-Hi there 👋 I'm Haris Ahmed
+<div align="center">
 
-🚀 Full-Stack Developer passionate about crafting scalable, secure, and high-performance applications. I specialize in backend engineering and REST API development, with hands-on experience across modern frameworks and tools including Laravel, Django, Django Rest Framework (DRF), Python, PHP, and Docker.
+# Hi there, I'm Haris Ahmed 👋
 
-💡 I thrive on solving complex problems, architecting clean solutions, and delivering reliable software that helps businesses grow. Whether it’s building robust APIs, containerized deployments, or end-to-end web platforms, I bring efficiency, precision, and innovation to every project.
+### 🚀 Full-Stack Developer | Python (Django) & PHP (Laravel) Specialist
 
-💻 Tech Stack
-<p align="left"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Django%20REST%20Framework-ff1709?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/> </p>
-🌟 About Me
+<p align="center">
+  <a href="https://linkedin.com/in/haris-ahmed-15bb0a215">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
-🔭 Experienced Full-Stack Developer with strong expertise in backend and frontend development.
+---
 
-🛠 Specialized in building scalable REST APIs and high-performance web applications.
+</div>
 
-🐳 Skilled in Dockerized deployments for smooth CI/CD pipelines.
+## 🌟 About Me
 
-⚡ Passionate about Django Rest Framework (DRF) for building secure & efficient APIs.
+I am a results-driven **Full-Stack Developer** with strong expertise in backend engineering. I specialize in architecting high-performance REST APIs and building scalable web solutions using **Python (Django)** and **PHP (Laravel)**.
 
-💡 Constant learner, always exploring new technologies to stay ahead in the tech space.
+From designing complex database schemas for Real Estate platforms to building E-learning systems, I focus on writing clean, maintainable, and secure code.
 
-📫 Connect With Me
+* 🔭 **Currently working on:** Advanced Backend Systems like `collubi-backend` & `tether_tails`.
+* 🤝 **Open to collaborating on:** Python/Django API development and Open Source projects.
+* ⚡ **Core Strength:** Bridging the gap between complex backend logic and seamless frontend experience.
 
-GitHub: github.com/Haris265
+---
 
-LinkedIn: linkedin.com/in/haris-ahmed-15bb0a215
+## 💻 Tech Stack
+
+| **Category** | **Technologies** |
+|:---:|:---|
+| **Backend (Python)** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/Django%20REST%20Framework-ff1709?style=flat&logo=django&logoColor=white) |
+| **Backend (PHP)** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) |
+| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white) |
+
+---
+
+## 📂 Featured Projects
+
+Here are some of the key projects I've worked on:
+
+### 🏠 **Real Estate Digital Platform**
+A comprehensive backend solution for managing property listings, agents, and customers.
+* **Repo:** `real_estate_python`
+* **Tech Stack:** Python, Django REST Framework, PostgreSQL.
+* **Key Features:**
+    * Property filtering and search algorithms.
+    * Agent-Customer connection management.
+    * Integrated property valuation tools.
+* [🔗 View Code](https://github.com/Haris265/real_estate_python)
+
+### 📚 **E-Learning Management System (LMS)**
+A robust backend system to handle online courses, student enrollments, and teacher panels.
+* **Repo:** `E-learning-backend`
+* **Tech Stack:** Django REST Framework, Docker, MySQL.
+* **Key Features:**
+    * Role-Based Access Control (Student vs Teacher vs Admin).
+    * Course progress tracking and video content management.
+    * Secure authentication and API endpoints for mobile/web apps.
+* [🔗 View Code](https://github.com/Haris265/E-learning-backend)
+
+### 📦 **Smart Inventory Management**
+A business logic-heavy application for tracking stock levels and orders.
+* **Repo:** `InventoryManagement`
+* **Tech Stack:** Python, Django, SQL.
+* **Key Features:**
+    * Real-time stock tracking and alerts.
+    * Supplier and order management system.
+    * Automated report generation for sales data.
+* [🔗 View Code](https://github.com/Haris265/InventoryManagement)
+
+### 💰 **Pawn Shop API System**
+A specialized financial API for managing pawn shop operations.
+* **Repo:** `pawnshopapi_django`
+* **Tech Stack:** Django REST Framework, Secure API Auth.
+* **Key Features:**
+    * Loan calculation and interest management logic.
+    * Secure transaction recording and item valuation.
+* [🔗 View Code](https://github.com/Haris265/pawnshopapi_django)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Haris265&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haris265&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph"  />
+</div>
+
+---
+
+<div align="center">
+  <p>Let's build something amazing together!</p>
+  <p>
+    <a href="https://linkedin.com/in/haris-ahmed-15bb0a215">LinkedIn</a> •
+    <a href="https://github.com/Haris265">GitHub</a>
+  </p>
+</div>
