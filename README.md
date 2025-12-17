@@ -88,16 +88,13 @@ A specialized financial API for managing pawn shop operations.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Haris265&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haris265&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Haris265&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haris265&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180" alt="languages graph" />
 </div>
 
----
+<br>
 
 <div align="center">
-  <p>Let's build something amazing together!</p>
-  <p>
-    <a href="https://linkedin.com/in/haris-ahmed-15bb0a215">LinkedIn</a> •
-    <a href="https://github.com/Haris265">GitHub</a>
-  </p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haris265&theme=radical&hide_border=true" alt="streak stats" />
 </div>
