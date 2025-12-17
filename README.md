@@ -56,19 +56,6 @@ I am a **Backend Specialist** focused on building high-performance, secure, and 
 ## 📊 GitHub Analytics (Animated)
 
 <div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=Haris265&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-  <br>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Haris265&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haris265&layout=compact&theme=radical&hide_border=true&langs_count=6" height="180" />
-
-</div>
-
-<br>
-
-<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haris265&theme=radical" />
 </div>
 
