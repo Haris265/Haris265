@@ -1,15 +1,20 @@
 <div align="center">
 
-# Hi there, I'm Haris Ahmed 👋
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3572A5&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Haris+Ahmed;Full+Stack+Developer;Django+%26+Laravel+Expert;Backend+Architect" alt="Typing SVG" />
+</a>
 
-### 🚀 Full-Stack Developer | Python (Django) & PHP (Laravel) Specialist
+### 🚀 Architecting Scalable Solutions with Python & PHP
 
 <p align="center">
   <a href="https://linkedin.com/in/haris-ahmed-15bb0a215">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="harisahmedshaikh12@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" />
+  <a href="mailto:harisahmedshaikh12@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Haris265">
+    <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -17,84 +22,59 @@
 
 </div>
 
-## 🌟 About Me
+## 👨‍💻 About Me
 
-I am a results-driven **Full-Stack Developer** with strong expertise in backend engineering. I specialize in architecting high-performance REST APIs and building scalable web solutions using **Python (Django)** and **PHP (Laravel)**.
+I am a **Backend Specialist** focused on building high-performance, secure, and scalable applications. With a dual-stack mastery in **Python (Django)** and **PHP (Laravel)**, I bridge the gap between complex database architecture and seamless user experience.
 
-From designing complex database schemas for Real Estate platforms to building E-learning systems, I focus on writing clean, maintainable, and secure code.
-
-* 🔭 **Currently working on:** Advanced Backend Systems like `collubi-backend` & `tether_tails`.
-* 🤝 **Open to collaborating on:** Python/Django API development and Open Source projects.
-* ⚡ **Core Strength:** Bridging the gap between complex backend logic and seamless frontend experience.
+* 🔭 **Current Focus:** Developing advanced backend systems like `collubi-backend` & `tether_tails`.
+* 💼 **Experience:** Architecting Real Estate platforms, LMS, and Financial APIs.
+* ⚡ **Core Skills:** Database Optimization, Dockerized Deployments, REST API Security.
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Arsenal
 
-| **Category** | **Technologies** |
-|:---:|:---|
-| **Backend (Python)** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/Django%20REST%20Framework-ff1709?style=flat&logo=django&logoColor=white) |
-| **Backend (PHP)** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) |
-| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white) |
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,php,laravel,docker,postgres,mysql,git,postman,nginx,linux,redis&perline=6" />
+  </a>
+</div>
 
 ---
 
 ## 📂 Featured Projects
 
-Here are some of the key projects I've worked on:
-
-### 🏠 **Real Estate Digital Platform**
-A comprehensive backend solution for managing property listings, agents, and customers.
-* **Repo:** `real_estate_python`
-* **Tech Stack:** Python, Django REST Framework, PostgreSQL.
-* **Key Features:**
-    * Property filtering and search algorithms.
-    * Agent-Customer connection management.
-    * Integrated property valuation tools.
-* [🔗 View Code](https://github.com/Haris265/real_estate_python)
-
-### 📚 **E-Learning Management System (LMS)**
-A robust backend system to handle online courses, student enrollments, and teacher panels.
-* **Repo:** `E-learning-backend`
-* **Tech Stack:** Django REST Framework, Docker, MySQL.
-* **Key Features:**
-    * Role-Based Access Control (Student vs Teacher vs Admin).
-    * Course progress tracking and video content management.
-    * Secure authentication and API endpoints for mobile/web apps.
-* [🔗 View Code](https://github.com/Haris265/E-learning-backend)
-
-### 📦 **Smart Inventory Management**
-A business logic-heavy application for tracking stock levels and orders.
-* **Repo:** `InventoryManagement`
-* **Tech Stack:** Python, Django, SQL.
-* **Key Features:**
-    * Real-time stock tracking and alerts.
-    * Supplier and order management system.
-    * Automated report generation for sales data.
-* [🔗 View Code](https://github.com/Haris265/InventoryManagement)
-
-### 💰 **Pawn Shop API System**
-A specialized financial API for managing pawn shop operations.
-* **Repo:** `pawnshopapi_django`
-* **Tech Stack:** Django REST Framework, Secure API Auth.
-* **Key Features:**
-    * Loan calculation and interest management logic.
-    * Secure transaction recording and item valuation.
-* [🔗 View Code](https://github.com/Haris265/pawnshopapi_django)
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :---: |
+| **🏠 Real Estate Digital Platform** | A comprehensive backend for property listings, agent-customer mapping, and property valuation tools. | `Python` `Django REST` `PostgreSQL` | [🔗 View](https://github.com/Haris265/real_estate_python) |
+| **📚 E-Learning LMS** | Robust LMS with Role-Based Access Control (RBAC), video content management, and student tracking. | `DRF` `Docker` `MySQL` | [🔗 View](https://github.com/Haris265/E-learning-backend) |
+| **📦 Inventory System** | Business-logic heavy app for real-time stock tracking, supplier management, and automated reporting. | `Python` `Django` `SQL` | [🔗 View](https://github.com/Haris265/InventoryManagement) |
+| **💰 Pawn Shop API** | Specialized financial API handling loan calculations, interest management, and secure transactions. | `DRF` `Secure Auth` | [🔗 View](https://github.com/Haris265/pawnshopapi_django) |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics (Animated)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Haris265&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="stats graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haris265&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180" alt="languages graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Haris265&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  <br>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Haris265&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haris265&layout=compact&theme=radical&hide_border=true&langs_count=6" height="180" />
+
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haris265&theme=radical&hide_border=true" alt="streak stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haris265&theme=radical" />
+</div>
+
+---
+
+<div align="center">
+  <p><i>"Code is like humor. When you have to explain it, it’s bad."</i></p>
+  <p><b>Let's build something scalable together! 🚀</b></p>
 </div>
